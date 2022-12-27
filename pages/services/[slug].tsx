@@ -1,8 +1,8 @@
 // import { Index } from './index';
 import Head from "next/head";
 import React from "react";
-import Land from "../../services/land";
-import Pictures from "../../services/pictures";
+import Land from "./_land";
+import Pictures from "./_pictures";
 import axios from "axios";
 import { useRouter } from "next/router";
 

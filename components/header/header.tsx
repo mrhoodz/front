@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import style from "./style.module.scss";
 
-import logohead from "../../public/resized/svg/logo text.svg";
+import logohead from "../../public/resized/svg/logo png.svg";
 import logotext from "../../public/resized/svg/logo text.svg";
 import Navlinks from "./navlink";
 
