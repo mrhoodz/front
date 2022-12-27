@@ -21,7 +21,6 @@
   position: relative;
   // import pic from "../../public/resized"
 
-
   background-image: url("../../public/resized/pexels-yury-kim-585418 (Large).jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -97,11 +96,9 @@
     font-weight: normal;
     font-size: 18rem;
 
-&:hover{
-  background-color: $secondary-color;
-}
-
-
+    &:hover {
+      background-color: $secondary-color;
+    }
   }
 
   & .contactinfo {
