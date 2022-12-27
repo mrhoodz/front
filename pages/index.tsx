@@ -2,7 +2,7 @@ import Head from "next/head";
 // import Image from "next/image";
 // import { Inter } from "@next/font/google";
 // import styles from "./style.module.scss";
-import Prime from "../_firstpage";
+import Prime from "./_firstpage";
 // const inter = Inter({ subsets: ["latin"] });
 import axios from "axios";
 // import { GraphQLClient, gql } from "graphql-request";
